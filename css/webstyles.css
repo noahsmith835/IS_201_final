@@ -1,0 +1,29 @@
+.darkcolor{
+    background-color: rgb(9, 9, 48) !important;
+}
+
+.new-icon{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 3.5rem;
+    width: 3.5rem;
+    background-color: rgb(9, 9, 48);
+    color: #fff;
+    border-radius: 100%;
+    font-size: 1.5rem;
+    margin-right: 1.5rem !important;
+      }
+
+.center_image{
+    width: 100px; /* Set the width of the div */
+    height: 50px; /* Set the height of the div */
+    text-align: center !important; /* Align the image horizontally within the div */
+
+    }
+      
+.img_sizing{
+    max-width: 100%; /* Make the image resize to fit within the div */
+    max-height: 100% !important; /* Make the image resize to fit within the div */
+    }
+

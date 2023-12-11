@@ -1,0 +1,18 @@
+body{
+    background-image: url('https://img.freepik.com/premium-vector/white-marble-texture-background-abstract-backdrop-marble-granite-stone-vector-illustration_515038-9545.jpg?w=2000');
+    background-repeat: no-repeat;
+}
+
+.main{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:rgb(9, 9, 48)
+}
+
+.header{
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.footer{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
